@@ -1,0 +1,14 @@
+input {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.order-add-form {
+    margin-top: 10px;
+    display: block;
+width: 30%;
+}
+
+.btn-add {
+    width: 30%;
+}

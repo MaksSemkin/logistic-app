@@ -1,0 +1,15 @@
+table {
+    table-layout: fixed;
+    width:100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+
+}
+
+table table tr:nth-child(1) {
+    width: 10%;
+}
+
+.btn {
+    width: 100%;
+}
